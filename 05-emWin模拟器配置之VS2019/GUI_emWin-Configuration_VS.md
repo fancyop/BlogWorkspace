@@ -1,9 +1,13 @@
 ## 1 去SEGGER官网下载emWin模拟器软件包
-　　快速链接：[传送门](https://www.segger.com/downloads/emwin/)
-　　不过官网下载需要先注册登录账户才能进行下载操作，我现在的时候软件版本是V5.48
-　　下面是网盘链接：　　
-　　链接：[传送门](https://pan.baidu.com/s/1wkF9v8h7OzGrtgqs_VHkxA)  提取码：fo6n 
-　　网盘资源包括：V5.48、V5.30（有GUIBuild）、png库、还有emWin中文手册
+###### 快速链接：[传送门](https://www.segger.com/downloads/emwin/)
+
+###### 不过官网下载需要先注册登录账户才能进行下载操作，我现在的时候软件版本是V5.48
+
+###### 下面是网盘链接：　　
+
+###### 链接：[传送门](https://pan.baidu.com/s/1wkF9v8h7OzGrtgqs_VHkxA)  提取码：fo6n 
+
+###### 网盘资源包括：V5.48、V5.30（有GUIBuild）、png库、还有emWin中文手册
 
 ## 2 然后就是安装VS了，VS2015/VS2017/VS2019等等
 
