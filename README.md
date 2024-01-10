@@ -33,3 +33,5 @@
 [15-如何分别在macOS&Windows&Linux上对OpenSSL源码进行编译](./15-如何分别在macOS&Windows&Linux上对OpenSSL源码进行编译/15-如何分别在macOS&Windows&Linux上对OpenSSL源码进行编译.md)
 
 [16-macOS系统平台适配Qt6.5环境的QCefView源码编译](./16-macOS系统平台适配Qt6.5环境的QCefView源码编译/16-macOS系统平台适配Qt6.5环境的QCefView源码编译.md)
+
+[17-设计模式：简单工厂、工厂方法、抽象工厂的区别](./17-设计模式：简单工厂、工厂方法、抽象工厂的区别/17-设计模式：简单工厂、工厂方法、抽象工厂的区别.md)
