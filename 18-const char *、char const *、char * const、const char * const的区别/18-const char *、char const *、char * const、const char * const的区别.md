@@ -18,8 +18,8 @@ const char *ptr1;
 char const *ptr2;
 
 // 合法，可以修改指针
-ptr1 = "World";
-ptr2 = "World";
+ptr1 = "Hello";
+ptr2 = "Hello";
 
 // 错误，不能修改所指向地址上的字符值，编译时错误为 error: read-only variable is not assignable
 // ptr1[0] = 'X';
@@ -49,9 +49,9 @@ ptr3[0] = 'X';
 const char greeting[] = "Hello";
 const char * const ptr4 = greeting;
 
-// 错误，不能修改指针的地址，编译时错误为 error: cannot assign to variable 'ptr4' with const-qualified type 'const char *const'
-// ptr4 = "World";
-
 // 错误，不能通过指针修改所指向地址上的字符值，编译时错误为 error: cannot assign to variable 'ptr4' with const-qualified type 'const char *const'
 // ptr4[0] = 'X';
+
+// 错误，不能修改指针的地址，编译时错误为 error: cannot assign to variable 'ptr4' with const-qualified type 'const char *const'
+// ptr4 = "World";
 ```
