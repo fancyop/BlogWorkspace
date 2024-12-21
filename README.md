@@ -37,3 +37,5 @@
 [17-设计模式：简单工厂、工厂方法、抽象工厂的区别](./17-设计模式：简单工厂、工厂方法、抽象工厂的区别/17-设计模式：简单工厂、工厂方法、抽象工厂的区别.md)
 
 [18-关于const和char以及指针一起声明变量时不同顺序使用带来的影响](./18-关于const和char以及指针一起声明变量时不同顺序使用带来的影响/关于const和char以及指针一起声明变量时不同顺序使用带来的影响.md)
+
+[19-static_cast、dynamic_cast、const_cast、reinterpret_cast的区别](./19-static_cast、dynamic_cast、const_cast、reinterpret_cast的区别/static_cast、dynamic_cast、const_cast、reinterpret_cast的区别.md)
