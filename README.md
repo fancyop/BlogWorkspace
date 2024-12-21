@@ -39,3 +39,5 @@
 [018-关于const和char以及指针一起声明变量时不同顺序使用带来的影响](./018/关于const和char以及指针一起声明变量时不同顺序使用带来的影响.md)
 
 [019-static_cast、dynamic_cast、const_cast、reinterpret_cast的区别](./019/static_cast、dynamic_cast、const_cast、reinterpret_cast的区别.md)
+
+[020-Windows系统中的Junction、硬链接、软链接、快捷方式的区别](./020/Windows系统中的Junction、硬链接、软链接、快捷方式的区别.md)
